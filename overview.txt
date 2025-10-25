@@ -1,0 +1,49 @@
+1. intro and stuff
+    - why git
+    - what git
+    - project management pov
+    - collaboratin pov
+    - technicality and jargons
+        -git
+        -VCS
+        -repository
+        -local
+        -remote
+        -terminal stuff a bit
+        -
+
+2. intall and setup git
+    - intalling
+    - access to cheatsheet
+    - global configs
+    
+3. explain the git areas, the workflow and the process basically
+    - git areas
+    - highlevel idea using illustrations
+    - stepwise workflow understanding 
+
+4. practice on the sample webpage
+    - initializing repository
+    - changes
+    - add/ commit / etc
+    - branching
+    - merges
+        -types of merges (2/6)
+        
+    - creating github account
+        -repo creation
+    
+    - uploading project on github
+        - remote setup
+        - push code
+        - see changes on github
+
+5. hosting the sample page using github pages
+
+FINAL STUFF(If time permitted to have the feel of git workflows)
+6. Manking a change to seeing the deployed change on hosted page.
+
+EXTENDED TALKS
+7. A little talk on Open-source and stuff, plans ahead, tools to use, practicing stuff etc
+
+

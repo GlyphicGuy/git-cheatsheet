@@ -213,6 +213,8 @@ Flags:
 - **-u** : upstream
 - **branch-name** : this is probably going to be your "main" or the feature branches you create
 
+> You can also use just `git push` after you have set the upstream, if you commited to the same branch and want to push again
+
 ## Pulling from Remote
 
 ### Fetch & Merge Approach
@@ -238,5 +240,7 @@ git pull origin main
 <br>
 <br>
 <br>
+
 # Visualizing git - Tool for practice and understanding
+
 ### https://git-school.github.io/visualizing-git/#free
