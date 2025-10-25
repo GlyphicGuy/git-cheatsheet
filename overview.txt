@@ -18,9 +18,9 @@
     - global configs
     
 3. explain the git areas, the workflow and the process basically
-    - git areas
-    - highlevel idea using illustrations
-    - stepwise workflow understanding 
+    - git areas : working dir, staging, commited changes
+    - highlevel idea using illustrations - figma/excalidraw
+    - stepwise workflow understanding
 
 4. practice on the sample webpage
     - initializing repository
@@ -29,7 +29,7 @@
     - branching
     - merges
         -types of merges (2/6)
-        
+
     - creating github account
         -repo creation
     

@@ -39,10 +39,15 @@ stages:
 U - untracked
 A - added or staged
 C - Commited
+M - Modified
+
+
+explaining on the smartboard using excalidraw etc
 
 
 
-git log --oneline => to know current status of saved points
+
+
 
 - managing your own projects
 - making git available in our project
@@ -87,7 +92,7 @@ git status -s => to know current status of unstaged and staged files
 
 ---
 
-# Collaboration HANDS-ONNNNN!
+# Collaboration Flow!
 
 1. main person inits repo & uploads to github 
 
@@ -101,12 +106,36 @@ git status -s => to know current status of unstaged and staged files
 5. commit and push to upstream (github main repo)
 
 6. inform about the commit to the main person
+    ---
 
 7. main person checks the commits and merges to main.
 
+
+# Managing Project Flow!
+**When you start a new Project**
+1. initialize git repo (git init)
+    - main branch is called master, you can change it to main (git branch -M main)
+2. make the initial setup as per your project
+    - writing boilerplate  code
+    - basic folder structure
+    - initial code for project's existence
+3. stage the changes (git add .)
+4. git commit -m "initial commit"
+5. make a repo on the GitHub and copy the url
+6. add remote (git remote add origin <url>)
+7. git push -u origin main
+8. refresh the github tab to see the changes uploaded.
+
+---
+**steps 9-12 is the repeated workflow usecase**
+
+9. make changes to the project(add/edit/delete files/folders)
+10. stage them again (git add .)
+11. git commit -m "any message you want"
+12. git push origin main (or just git push if pushing to the same branch anyways)
 ---
 
-## iF tImE pErMiTs
+
 
 
 

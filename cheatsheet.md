@@ -241,6 +241,6 @@ git pull origin main
 <br>
 <br>
 
-# Visualizing git - Tool for practice and understanding
+## Visualizing git - Tool for practice and understanding
 
 ### https://git-school.github.io/visualizing-git/#free
