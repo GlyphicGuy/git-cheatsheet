@@ -28,6 +28,7 @@
 # HANDS ON!
 
 - git installation
+
 - git initial setup
 
 - initialize git repo
