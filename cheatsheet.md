@@ -1,7 +1,8 @@
 # Git Cheat Sheet
 
 ## Installation
-[Download Git here](https://git-scm.com/)
+<a href="https://git-scm.com/" target="_blank">Download Git here</a>
+
 
 
 **Check version after installation**
